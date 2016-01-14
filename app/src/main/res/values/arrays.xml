@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="linhas_rmr">
+        <item>910 - Rio Doce Piedade</item>
+        <item>920 - Rio Doce CDU </item>
+        <item>820 - Rio Doce Dois irmãos</item>
+        <item>155 - Conjunto Beira Mar </item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Buzzao</string>
+
+
+    <string name="title_activity_monitoramento">Monitoramento</string>
+
+    <!-- Strings do menu-->
+    <string name="menu_config">Configuracoes</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <!-- Conteúdo -->
+    <string name="sobre">Esse app tem intuito de facilitar o monitoramento do serviço prestado
+    pelas empresas de ônibus e com esses dados tentar formentar políticas públicas voltadas para a
+    melhoria do transporte público.</string>
+
+    <string name="contribuir">
+    Caso queira contribuir com o projeto visite nosso site e nosso github. http://buzzao.co e
+    http://github.com/buzzao</string>
+
+</resources>
