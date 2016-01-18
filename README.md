@@ -1,4 +1,6 @@
 # Buzzao
+
+[![Join the chat at https://gitter.im/Buzzao/buzzao-android](https://badges.gitter.im/Buzzao/buzzao-android.svg)](https://gitter.im/Buzzao/buzzao-android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Esse app tem intuito de facilitar o monitoramento do serviço prestado pelas empresas de ônibus e com esses dados tentar formentar políticas públicas voltadas para a melhoria do transporte público.
 
 #Próximos Passos
