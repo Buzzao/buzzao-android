@@ -1,13 +1,15 @@
 apply plugin: 'com.android.application'
+apply plugin: 'let'
+
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "22.0.0"
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "com.igormatos.buzzao"
         minSdkVersion 15
-        targetSdkVersion 22
+        targetSdkVersion 23
         versionCode 1
         versionName "0.3"
     }
@@ -22,7 +24,8 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 //    compile fileTree(dir: 'libs', include: 'Parse_1_9_2.jar')
-    compile 'com.android.support:appcompat-v7:22.0.0'
-
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile 'com.android.support:design:23.3.0'
+    compile 'com.android.support:support-v4:23.3.0'
 
 }
